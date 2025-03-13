@@ -40,14 +40,15 @@ Appointments
 
 Publications
 ------
+- **Lee, B.**, **Sambado, S.** (co-first authors), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E. (2025).  
+  **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
+  *Ecology and Evolution*. **15**(1).
+  [DOI:10.1002/ece3.70819](https://doi.org/10.1002/ece3.70819)  
+
 - **Lee, B.**, Rich, A., Diehl, R.H., & Larsen, A.E. (2024).  
   **BATS: Bat‐Aggregated Time Series—A Python‐based toolkit for landscape‐level monitoring of free‐tailed bats via weather radar.**  
   *Methods in Ecology and Evolution*, **15**(12), 2209-2215.  
   [DOI:10.1111/2041-210X.14317](https://doi.org/10.1111/2041-210X.14317)  
-
-- **Lee, B.**, Sambado, S., Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E. (2025).  
-  **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
-  *Ecology and Evolution*. *(In Press)*  
 
 - Caraballo-Vega, J.A., Carroll, M.L., Neigh, C.S.R., Wooten, M., **Lee, B.**, Weis, A., & Aronne, M. (2023).  
   **Optimizing WorldView-2, -3 cloud masking using machine learning approaches.**  
