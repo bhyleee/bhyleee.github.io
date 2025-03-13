@@ -19,6 +19,8 @@ Beyond research, I am committed to open science and inclusivity. I design tools 
 
 Experience
 ======
+📄 **Download my CV:**  
+[Lee CV (PDF)](/files/lee_cv.pdf)
 
 Education
 ------
@@ -40,30 +42,35 @@ Appointments
 
 Publications
 ------
-**2025**  **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
-          **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
-          *Ecology and Evolution*. **15**(1).
-          [DOI:10.1002/ece3.70819](https://doi.org/10.1002/ece3.70819)  
+**2025**  
+**Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
+**Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
+*Ecology and Evolution*. **15**(1).
+[DOI:10.1002/ece3.70819](https://doi.org/10.1002/ece3.70819)  
 
-**2024**  **Lee, B.**, Rich, A., Diehl, R.H., & Larsen, A.E.  
-          **BATS: Bat‐Aggregated Time Series—A Python‐based toolkit for landscape‐level monitoring of free‐tailed bats via weather radar.**  
-          *Methods in Ecology and Evolution*, **15**(12), 2209-2215.  
-          [DOI:10.1111/2041-210X.14317](https://doi.org/10.1111/2041-210X.14317)  
+**2024**  
+**Lee, B.**, Rich, A., Diehl, R.H., & Larsen, A.E.  
+**BATS: Bat‐Aggregated Time Series—A Python‐based toolkit for landscape‐level monitoring of free‐tailed bats via weather radar.**  
+*Methods in Ecology and Evolution*, **15**(12), 2209-2215.  
+[DOI:10.1111/2041-210X.14317](https://doi.org/10.1111/2041-210X.14445)  
 
-**2023**  Caraballo-Vega, J.A., Carroll, M.L., Neigh, C.S.R., Wooten, M., **Lee, B.**, Weis, A., & Aronne, M.  
-          **Optimizing WorldView-2, -3 cloud masking using machine learning approaches.**  
-          *Remote Sensing of Environment*, **284**, 113332.  
-          [DOI:10.1016/j.rse.2023.113332](https://doi.org/10.1016/j.rse.2023.113332)  
+**2023**  
+Caraballo-Vega, J.A., Carroll, M.L., Neigh, C.S.R., Wooten, M., **Lee, B.**, Weis, A., & Aronne, M.  
+**Optimizing WorldView-2, -3 cloud masking using machine learning approaches.**  
+*Remote Sensing of Environment*, **284**, 113332.  
+[DOI:10.1016/j.rse.2023.113332](https://doi.org/10.1016/j.rse.2023.113332)  
 
-**2022**  Thomas, N., **Lee, B.**, Coutts, O., Bunting, P., Lagomasino, D., & Fatoyinbo, L.  
-          **A purely spaceborne open-source approach for regional bathymetry mapping.**  
-          *IEEE Transactions on Geoscience and Remote Sensing*, **60**, 1-9.  
-          [DOI:10.1109/TGRS.2022.3152674](https://doi.org/10.1109/TGRS.2022.3152674)  
+**2022**  
+Thomas, N., **Lee, B.**, Coutts, O., Bunting, P., Lagomasino, D., & Fatoyinbo, L.  
+**A purely spaceborne open-source approach for regional bathymetry mapping.**  
+*IEEE Transactions on Geoscience and Remote Sensing*, **60**, 1-9.  
+[DOI:10.1109/TGRS.2022.3152674](https://doi.org/10.1109/TGRS.2022.3192825)  
 
-**2020**  Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S.J.  
-          **ECOSTRESS: NASA's next-generation mission to measure evapotranspiration from the International Space Station.**  
-          *Water Resources Research*, **56**(4), e2019WR026058.  
-          [DOI:10.1029/2019WR026058](https://doi.org/10.1029/2019WR026058)  
+**2020**  
+Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S.J.  
+**ECOSTRESS: NASA's next-generation mission to measure evapotranspiration from the International Space Station.**  
+*Water Resources Research*, **56**(4), e2019WR026058.  
+[DOI:10.1029/2019WR026058](https://doi.org/10.1029/2019WR026058)  
 
 Presentations
 ------
