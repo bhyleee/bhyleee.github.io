@@ -30,7 +30,7 @@ Education
 
 Appointments
 ------
-**2024-Present** Bren Environmental Leadership Fellow, UCSB  
+**2024-2025** Bren Environmental Leadership Fellow, UCSB  
 **2023-2024** Arnhold Fellow, UCSB  
 **2022** Microsoft AI for Earth Fellow
 **2020-2023** NASA MUREP PhD Fellow, NASA Goddard  
@@ -100,7 +100,6 @@ Teaching
 
 Service
 ------
-## Service
 **2024** Bren Environmental Leadership Program (K-12 Outreach)  
 **2012-2015** US Peace Corps, Rwanda  
 **Society Memberships**: Ecological Society of America, American Geophysical Union  
