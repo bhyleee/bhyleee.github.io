@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Brian Lee Ecology"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a landscape ecologist exploring the interactions between managed lands and the surrounding environment. I do this using a combination of remote sensing fusion, machine learning, and causal inference approaches.
+I am a landscape ecologist and currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment. 
 
 My Research
 ======
-We live in an era of unprecedented environmental data collection—on the ground, from the air, and from space. My research harnesses machine learning and multi-sensor remote sensing to transform these vast datasets into actionable insights that help us better understand biodiversity, natural ecosystems, and managed lands such as forests and farms.
+My research harnesses machine learning and multi-sensor remote sensing to transform vast environmental datasets into actionable insights that help us better understand biodiversity, natural ecosystems, and managed lands such as forests and farms.
 
 I develop AI-driven models to quantify ecological processes across landscapes, integrating diverse datasets to examine interactions between managed and natural lands. My work bridges computational advances with real-world sustainability challenges across spatial and temporal scales. I use spaceborne sensors—including optical, SAR, and LiDAR—to characterize ecosystem attributes like biomass and primary productivity, while leveraging ground-based sensors, such as NEXRAD weather radar, to track bats and other avifauna. By bringing these approaches together, I explore how species interact with landscapes and how human activities both benefit from and reshape ecological systems.
 
