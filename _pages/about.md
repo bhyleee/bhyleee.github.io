@@ -22,79 +22,79 @@ Experience
 
 Education
 ------
-- **2025 (Expected)** Ph.D., Environmental Science & Management, Bren School, UCSB  
-- **2018** M.E.M., Environmental Management, School of the Environment, Yale University  
-- **2012** B.S., Biology, Pacific Union College  
+**2025 (Expected)** Ph.D., Environmental Science & Management, Bren School, UCSB  
+**2018** M.E.M., Environmental Management, School of the Environment, Yale University  
+**2012** B.S., Biology, Pacific Union College  
 
 Appointments
 ------
-- **2024-Present** Bren Environmental Leadership Fellow, UCSB  
-- **2023-2024** Arnhold Fellow, UCSB  
-- **2022** Microsoft AI for Earth Fellow
-- **2020-2023** NASA MUREP PhD Fellow, NASA Goddard  
-- **2018** Research Assistant, NASA JPL  
-- **2016-2018** Paul Coverdell Fellow, Yale University  
-- **2015** Field Technician, Colorado State University  
-- **2013-2015** Field Biologist, International Gorilla Conservation Programme  
-- **2012-2015** Peace Corps Volunteer, Rwanda  
+**2024-Present** Bren Environmental Leadership Fellow, UCSB  
+**2023-2024** Arnhold Fellow, UCSB  
+**2022** Microsoft AI for Earth Fellow
+**2020-2023** NASA MUREP PhD Fellow, NASA Goddard  
+**2018** Research Assistant, NASA JPL  
+**2016-2018** Paul Coverdell Fellow, Yale University  
+**2015** Field Technician, Colorado State University  
+**2013-2015** Field Biologist, International Gorilla Conservation Programme  
+**2012-2015** Peace Corps Volunteer, Rwanda  
 
 Publications
 ------
-- **2025**  **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
-  **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
-  *Ecology and Evolution*. **15**(1).
-  [DOI:10.1002/ece3.70819](https://doi.org/10.1002/ece3.70819)  
+**2025**  **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
+          **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
+          *Ecology and Evolution*. **15**(1).
+          [DOI:10.1002/ece3.70819](https://doi.org/10.1002/ece3.70819)  
 
-- **2024**  **Lee, B.**, Rich, A., Diehl, R.H., & Larsen, A.E.  
-  **BATS: Bat‐Aggregated Time Series—A Python‐based toolkit for landscape‐level monitoring of free‐tailed bats via weather radar.**  
-  *Methods in Ecology and Evolution*, **15**(12), 2209-2215.  
-  [DOI:10.1111/2041-210X.14317](https://doi.org/10.1111/2041-210X.14317)  
+**2024**  **Lee, B.**, Rich, A., Diehl, R.H., & Larsen, A.E.  
+          **BATS: Bat‐Aggregated Time Series—A Python‐based toolkit for landscape‐level monitoring of free‐tailed bats via weather radar.**  
+          *Methods in Ecology and Evolution*, **15**(12), 2209-2215.  
+          [DOI:10.1111/2041-210X.14317](https://doi.org/10.1111/2041-210X.14317)  
 
-- **2023** Caraballo-Vega, J.A., Carroll, M.L., Neigh, C.S.R., Wooten, M., **Lee, B.**, Weis, A., & Aronne, M.  
-  **Optimizing WorldView-2, -3 cloud masking using machine learning approaches.**  
-  *Remote Sensing of Environment*, **284**, 113332.  
-  [DOI:10.1016/j.rse.2023.113332](https://doi.org/10.1016/j.rse.2023.113332)  
+**2023**  Caraballo-Vega, J.A., Carroll, M.L., Neigh, C.S.R., Wooten, M., **Lee, B.**, Weis, A., & Aronne, M.  
+          **Optimizing WorldView-2, -3 cloud masking using machine learning approaches.**  
+          *Remote Sensing of Environment*, **284**, 113332.  
+          [DOI:10.1016/j.rse.2023.113332](https://doi.org/10.1016/j.rse.2023.113332)  
 
-- **2022** Thomas, N., **Lee, B.**, Coutts, O., Bunting, P., Lagomasino, D., & Fatoyinbo, L.  
-  **A purely spaceborne open-source approach for regional bathymetry mapping.**  
-  *IEEE Transactions on Geoscience and Remote Sensing*, **60**, 1-9.  
-  [DOI:10.1109/TGRS.2022.3152674](https://doi.org/10.1109/TGRS.2022.3152674)  
+**2022**  Thomas, N., **Lee, B.**, Coutts, O., Bunting, P., Lagomasino, D., & Fatoyinbo, L.  
+          **A purely spaceborne open-source approach for regional bathymetry mapping.**  
+          *IEEE Transactions on Geoscience and Remote Sensing*, **60**, 1-9.  
+          [DOI:10.1109/TGRS.2022.3152674](https://doi.org/10.1109/TGRS.2022.3152674)  
 
-- **2020** Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S.J.  
-  **ECOSTRESS: NASA's next-generation mission to measure evapotranspiration from the International Space Station.**  
-  *Water Resources Research*, **56**(4), e2019WR026058.  
-  [DOI:10.1029/2019WR026058](https://doi.org/10.1029/2019WR026058)  
+**2020**  Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S.J.  
+          **ECOSTRESS: NASA's next-generation mission to measure evapotranspiration from the International Space Station.**  
+          *Water Resources Research*, **56**(4), e2019WR026058.  
+          [DOI:10.1029/2019WR026058](https://doi.org/10.1029/2019WR026058)  
 
 Presentations
 ------
-- **2024** AGU Fall Meeting (BATS Toolkit & Forest Carbon Remote Sensing)  
-- **2023** ESA Conference (BATS Toolkit)  
-- **2022** Yolo Basin Foundation (Bat Populations & Machine Learning)  
-- **2021** Pacific Union College (Remote Sensing & Ecosystem Services)  
+**2024** AGU Fall Meeting (BATS Toolkit & Forest Carbon Remote Sensing)  
+**2023** ESA Conference (BATS Toolkit)  
+**2022** Yolo Basin Foundation (Bat Populations & Machine Learning)  
+**2021** Pacific Union College (Remote Sensing & Ecosystem Services)  
 
 Grants & Awards
 ------
-- **2024** Bren Environmental Leaders Fellowship  
-- **2023** 1st Place PhD Presentation, UCSB Bren Symposium  
-- **2021** Microsoft Azure AI for Earth Grant  
-- **2020-2023** NASA MUREP PhD Fellowship (Co-PI)  
-- **2020** Schmidt Environmental Sciences Research Accelerator Award  
-- **2019** Bren Forest Sustainability Fellowship, UCSB  
-- **2016-2018** Paul Coverdell Fellowship, Yale University  
+**2024** Bren Environmental Leaders Fellowship  
+**2023** 1st Place PhD Presentation, UCSB Bren Symposium  
+**2021** Microsoft Azure AI for Earth Grant  
+**2020-2023** NASA MUREP PhD Fellowship (Co-PI)  
+**2020** Schmidt Environmental Sciences Research Accelerator Award  
+**2019** Bren Forest Sustainability Fellowship, UCSB  
+**2016-2018** Paul Coverdell Fellowship, Yale University  
 
 Teaching
 ------
-- **2025** Instructor, ESM 270P: Conservation Planning
-- **2024** TA, EDS 214: Analytical Workflows  
-- **2023** TA, ESM 263: GIS  
-- **2022** TA, EDS 232: Machine Learning  
-- **2019-2021** TA, ESM 280: Conservation Planning  
-- **2012-2015** High School Teacher, Rwanda (Biology, Chemistry, Physics, Math) 
+**2025** Instructor, ESM 270P: Conservation Planning
+**2024** TA, EDS 214: Analytical Workflows  
+**2023** TA, ESM 263: GIS  
+**2022** TA, EDS 232: Machine Learning  
+**2019-2021** TA, ESM 280: Conservation Planning  
+**2012-2015** High School Teacher, Rwanda (Biology, Chemistry, Physics, Math) 
 
 Service
 ------
 ## Service
-- **2024** Bren Environmental Leadership Program (K-12 Outreach)  
-- **2012-2015** US Peace Corps, Rwanda  
-- **Society Memberships**: Ecological Society of America, American Geophysical Union  
-- **Reports**: Strategy for Forest Connectivity (WCS-Yale White Paper)  
+**2024** Bren Environmental Leadership Program (K-12 Outreach)  
+**2012-2015** US Peace Corps, Rwanda  
+**Society Memberships**: Ecological Society of America, American Geophysical Union  
+**Reports**: Strategy for Forest Connectivity (WCS-Yale White Paper)  
