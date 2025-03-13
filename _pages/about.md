@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a landscape ecologist and currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment. 
+I am a landscape ecologist and currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment. I am advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo.
 
 My Research
 ======
