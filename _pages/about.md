@@ -8,7 +8,10 @@ redirect_from:
 google_site_verification: "<meta name="google-site-verification" content="wrrRXKxV5C1YMC8y8tcza0SkRHxqJNsNzjYscsU5VLw" />"
 ---
 
-I am a landscape ecologist and currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment. I am advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo.
+About Me
+=====
+I am a landscape ecologist with extensive experience in machine learning and remote sensing. I am currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment, with an expected graduation date of Fall 2025. I am advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo.
+
 
 My Research
 ======
