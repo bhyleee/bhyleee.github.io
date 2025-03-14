@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+google_site_verification: "<meta name="google-site-verification" content="wrrRXKxV5C1YMC8y8tcza0SkRHxqJNsNzjYscsU5VLw" />"
 ---
 
 I am a landscape ecologist and currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment. I am advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo.
@@ -104,3 +105,10 @@ Service
 **2012-2015** US Peace Corps, Rwanda  
 **Society Memberships**: Ecological Society of America, American Geophysical Union  
 **Reports**: Strategy for Forest Connectivity (WCS-Yale White Paper)  
+
+
+
+
+
+
+
