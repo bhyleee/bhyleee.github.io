@@ -27,10 +27,9 @@ Multi-sensor remote sensing fusion: Combine optical, SAR, and LiDAR to improve e
 
 Biodiversity + ecosystem services: Use ground-based sensing (including NEXRAD weather radar) to quantify animal activity (e.g., bats/avian movement) and connect it to human-relevant outcomes.
 
-What it enables
 These tools help stakeholders move from “what happened?” to “where, how much, why, and what next?”—supporting more effective monitoring, climate mitigation planning, and resource management.
 
-Outside of research, I contribute to open science by developing tools like BATS (Bat-Aggregated Time Series) and I’m committed to inclusive environmental education and responsible AI applications.
+I firmly believe in inclusive, open science and I am actively involved in developing tools like BATS (Bat-Aggregated Time Series), promoting environmental environmental education and fostering the next generation of environmental stewards.
 
 Experience
 ======
@@ -45,11 +44,11 @@ Education
 
 Appointments
 ------
-**2026** Postdoctoral Associate, ESIIL, CU Boulder (starting April, 2026)
-**2025** Instructor of record, UCSB
+**2026** Postdoctoral Associate, ESIIL, CU Boulder (starting April, 2026)  
+**2025** Instructor of record, UCSB  
 **2024-2025** Bren Environmental Leadership Fellow, UCSB  
 **2023-2024** Arnhold Fellow, UCSB  
-**2022** Microsoft AI for Earth Fellow
+**2022** Microsoft AI for Earth Fellow  
 **2020-2023** NASA MUREP PhD Fellow, NASA Goddard  
 **2018** Research Assistant, NASA JPL  
 **2016-2018** Paul Coverdell Fellow, Yale University  
@@ -61,12 +60,12 @@ Publications
 ------
 **In review**  
 **Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
-Radar-based monitoring reveals bat-driven insecticide reductions.
+**Radar-based monitoring reveals bat-driven insecticide reductions.**
 Submitted to *Nature Sustainability* (under review).
 
 **In preparation**  
 **Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
-Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.
+**Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.**
 In preparation (targeting *Remote Sensing of the Environment*).
 
 **2025**  
