@@ -8,7 +8,13 @@ redirect_from:
 google_site_verification: "wrrRXKxV5C1YMC8y8tcza0SkRHxqJNsNzjYscsU5VLw"
 ---
 
-I am a landscape ecologist with extensive experience in machine learning and remote sensing. I am currently a PhD candidate at the UC Santa Barbara's Bren School of the Environment, with an expected graduation date of Fall 2025. I am advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo.
+I am a landscape ecologist who measures ecosystem services and environmental change across space and time. I have a particular interest in working lands, where society and nature overlap. I combine machine learning, multi-sensor remote sensing, and causal inference to build geospatial AI systems that turn large environmental datasets into decision-ready insights for sustainability.
+
+I am currently a PhD candidate at UC Santa Barbara's Bren School of Environmental Science & Management, advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo. In April 2026, I will begin a postdoctoral appointment at the Environmental Data Science Innovation & Impacts Lab (ESIIL) at the University of Colorado, Boulder.
+
+My research has been supported by fellowships and grants from NASA, USDA, and the Schmidt Foundation.
+
+When I'm not thinking about forests and farms, you can find me enjoying the outdoors with my wife and our amazing daughter June.
 
 
 My Research
