@@ -59,12 +59,12 @@ Appointments
 
 Publications
 ------
-**In review**
+**In review**  
 **Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
 Radar-based monitoring reveals bat-driven insecticide reductions.
 Submitted to *Nature Sustainability* (under review).
 
-**In preparation**
+**In preparation**  
 **Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
 Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.
 In preparation (targeting *Remote Sensing of the Environment*).
@@ -108,7 +108,7 @@ Presentations
 
 Grants & Awards
 ------
-**2025** NSF LEAP Momentum Fellowship, Columbia University (declined)
+**2025** NSF LEAP Momentum Fellowship, Columbia University (declined)  
 **2024** Bren Environmental Leaders Fellowship  
 **2023** 1st Place PhD Presentation, UCSB Bren Symposium  
 **2021** Microsoft Azure AI for Earth Grant  
@@ -119,9 +119,9 @@ Grants & Awards
 
 Teaching
 ------
-**2025** Instructor of Record, ESM 270P: Conservation Planning Practicum
-**2025** Instructor of Record, Introduction to Research
-**2025** TA, ESM 270: Conservation Planning
+**2025** Instructor of Record, ESM 270P: Conservation Planning Practicum  
+**2025** Instructor of Record, Introduction to Research  
+**2025** TA, ESM 270: Conservation Planning  
 **2024** TA, EDS 214: Analytical Workflows  
 **2023** TA, ESM 263: GIS  
 **2022** TA, EDS 232: Machine Learning  
@@ -130,7 +130,7 @@ Teaching
 
 Service
 ------
-**2021-2026** Mentor, Undergraduate and Masters-level researchers
+**2021-2026** Mentor, Undergraduate and Masters-level researchers  
 **2024** Bren Environmental Leadership Program (K-12 Outreach)  
 **2012-2015** US Peace Corps, Rwanda  
 **Society Memberships**: Ecological Society of America, American Geophysical Union  
