@@ -19,11 +19,18 @@ When I'm not thinking about forests and farms, you can find me enjoying the outd
 
 My Research
 ======
-My research harnesses machine learning and multi-sensor remote sensing to transform vast environmental datasets into actionable insights that help us better understand biodiversity, natural ecosystems, and managed lands such as forests and farms.
+My work focuses on building and validating models that map, monitor, and attribute ecological change—with an emphasis on outcomes that matter for management and policy (e.g., carbon stocks and fluxes, productivity, habitat dynamics, and pest-control services).
 
-I develop AI-driven models to quantify ecological processes across landscapes, integrating diverse datasets to examine interactions between managed and natural lands. My work bridges computational advances with real-world sustainability challenges across spatial and temporal scales. I use spaceborne sensors—including optical, SAR, and LiDAR—to characterize ecosystem attributes like biomass and primary productivity, while leveraging ground-based sensors, such as NEXRAD weather radar, to track bats and other avifauna. By bringing these approaches together, I explore how species interact with landscapes and how human activities both benefit from and reshape ecological systems.
+Geospatial ML at scale: Train and evaluate models that integrate heterogeneous spatial data to produce reliable landscape-level predictions and uncertainty.
 
-Beyond research, I am committed to open science and inclusivity. I design tools like BATS (Bat-Aggregated Time Series) to make complex environmental monitoring more accessible, lead environmental education programs for underrepresented students, and advocate for AI applications that inform equitable climate solutions. Looking ahead, my goal is to expand interdisciplinary collaborations that fuse geospatial AI, climate science, and ecological modeling to address pressing environmental challenges at local and global scales.
+Multi-sensor remote sensing fusion: Combine optical, SAR, and LiDAR to improve estimates of ecosystem structure and function (e.g., biomass, primary productivity).
+
+Biodiversity + ecosystem services: Use ground-based sensing (including NEXRAD weather radar) to quantify animal activity (e.g., bats/avian movement) and connect it to human-relevant outcomes.
+
+What it enables
+These tools help stakeholders move from “what happened?” to “where, how much, why, and what next?”—supporting more effective monitoring, climate mitigation planning, and resource management.
+
+Outside of research, I contribute to open science by developing tools like BATS (Bat-Aggregated Time Series) and I’m committed to inclusive environmental education and responsible AI applications.
 
 Experience
 ======
@@ -32,12 +39,14 @@ Experience
 
 Education
 ------
-**2025 (Expected)** Ph.D., Environmental Science & Management, Bren School, UCSB  
+**2026** Ph.D., Environmental Science & Management, Bren School, UCSB  
 **2018** M.E.M., Environmental Management, School of the Environment, Yale University  
 **2012** B.S., Biology, Pacific Union College  
 
 Appointments
 ------
+**2026** Postdoctoral Associate, ESIIL, CU Boulder (starting April, 2026)
+**2025** Instructor of record, UCSB
 **2024-2025** Bren Environmental Leadership Fellow, UCSB  
 **2023-2024** Arnhold Fellow, UCSB  
 **2022** Microsoft AI for Earth Fellow
@@ -50,6 +59,16 @@ Appointments
 
 Publications
 ------
+**In review**
+**Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
+Radar-based monitoring reveals bat-driven insecticide reductions.
+Submitted to *Nature Sustainability* (under review).
+
+**In preparation**
+**Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
+Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.
+In preparation (targeting *Remote Sensing of the Environment*).
+
 **2025**  
 **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
 **Novel Bat‐Monitoring Dataset Reveals Targeted Foraging With Agricultural and Pest Control Implications.**  
@@ -89,6 +108,7 @@ Presentations
 
 Grants & Awards
 ------
+**2025** NSF LEAP Momentum Fellowship, Columbia University (declined)
 **2024** Bren Environmental Leaders Fellowship  
 **2023** 1st Place PhD Presentation, UCSB Bren Symposium  
 **2021** Microsoft Azure AI for Earth Grant  
@@ -99,7 +119,9 @@ Grants & Awards
 
 Teaching
 ------
-**2025** Instructor, ESM 270P: Conservation Planning
+**2025** Instructor of Record, ESM 270P: Conservation Planning Practicum
+**2025** Instructor of Record, Introduction to Research
+**2025** TA, ESM 270: Conservation Planning
 **2024** TA, EDS 214: Analytical Workflows  
 **2023** TA, ESM 263: GIS  
 **2022** TA, EDS 232: Machine Learning  
@@ -108,6 +130,7 @@ Teaching
 
 Service
 ------
+**2021-2026** Mentor, Undergraduate and Masters-level researchers
 **2024** Bren Environmental Leadership Program (K-12 Outreach)  
 **2012-2015** US Peace Corps, Rwanda  
 **Society Memberships**: Ecological Society of America, American Geophysical Union  
