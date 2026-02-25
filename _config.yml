@@ -16,6 +16,7 @@ description              : &description "Ecology, Remote Sensing, Machine Learni
 url                      : https://bhyleee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhyleee/bhyleee.github.io"
+remote_theme             : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
