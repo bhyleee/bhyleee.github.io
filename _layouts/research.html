@@ -1,0 +1,118 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<!-- Full-width hero image -->
+{% if page.hero_image %}
+<div class="story-hero" style="background-image: url('{{ page.hero_image | relative_url }}');">
+  <div class="story-hero__content">
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="story-hero__subtitle">{{ page.subtitle }}</p>{% endif %}
+    {% if page.tags %}
+    <div class="story-hero__tags">
+      {% for tag in page.tags %}<span class="story-tag">{{ tag }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+
+<!-- Scroll progress bar -->
+<div class="scroll-progress" id="scrollProgress"></div>
+
+<div id="main" role="main" class="research-main">
+  <div class="research-body">
+
+    <!-- Main story content -->
+    <article class="research-content story-content">
+      {% unless page.hero_image %}
+        <h1 class="page__title">{{ page.title }}</h1>
+        {% if page.subtitle %}<p class="story-lead">{{ page.subtitle }}</p>{% endif %}
+      {% endunless %}
+
+      {{ content }}
+
+      <!-- Links / resources -->
+      {% if page.paper_url or page.github_url or page.data_url %}
+      <div class="research-sidebar__links" style="margin-top:3rem; padding-top:1.5rem; border-top:2px solid var(--global-border-color);">
+        <p class="research-sidebar__label">Resources</p>
+        {% if page.paper_url %}
+          <a href="{{ page.paper_url }}" class="research-sidebar__link-item" target="_blank">
+            <i class="fas fa-file-alt"></i> Read the paper
+          </a>
+        {% endif %}
+        {% if page.github_url %}
+          <a href="{{ page.github_url }}" class="research-sidebar__link-item" target="_blank">
+            <i class="fab fa-github"></i> View code on GitHub
+          </a>
+        {% endif %}
+        {% if page.data_url %}
+          <a href="{{ page.data_url }}" class="research-sidebar__link-item" target="_blank">
+            <i class="fas fa-database"></i> Access data
+          </a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </article>
+
+    <!-- Right sidebar: project navigation -->
+    <aside class="research-sidebar">
+      <div class="research-sidebar__inner">
+        <p class="research-sidebar__label">Research Projects</p>
+        <ul>
+          {% assign projects = site.research | sort: 'order' %}
+          {% for project in projects %}
+          <li class="{% if page.url == project.url %}active{% endif %}">
+            <a href="{{ project.url | relative_url }}">
+              {% if project.sidebar_image %}
+                <img src="{{ project.sidebar_image | relative_url }}" alt="{{ project.title }}">
+              {% endif %}
+              <span>{{ project.title }}</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+
+        {% if page.tags %}
+        <p class="research-sidebar__label" style="margin-top:1rem;">Topics</p>
+        <div style="display:flex; flex-wrap:wrap; gap:0.35rem; margin-bottom:1rem;">
+          {% for tag in page.tags %}
+          <span class="research-card__tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </aside>
+
+  </div>
+</div>
+
+<script>
+// Scroll progress bar
+(function() {
+  var bar = document.getElementById('scrollProgress');
+  if (!bar) return;
+  window.addEventListener('scroll', function() {
+    var scrolled = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100;
+    bar.style.width = Math.min(scrolled, 100) + '%';
+  });
+})();
+
+// Animate story sections into view on scroll
+(function() {
+  if (!('IntersectionObserver' in window)) return;
+  var targets = document.querySelectorAll('.story-animate');
+  if (!targets.length) return;
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('story-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.12 });
+  targets.forEach(function(el) { observer.observe(el); });
+})();
+</script>
