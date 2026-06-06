@@ -59,11 +59,14 @@ Appointments
 Publications
 ------
 **In review**  
-**Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
-**Radar-based monitoring reveals bat-driven insecticide reductions.**
-Submitted to *Nature Sustainability* (under review).
+
 
 **In preparation**  
+
+**Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
+**Radar-based monitoring reveals bat-driven insecticide reductions.**
+
+
 **Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
 **Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.**
 In preparation (targeting *Remote Sensing of the Environment*).
