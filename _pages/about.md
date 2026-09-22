@@ -61,13 +61,13 @@ Publications
 **In review**  
 
 **Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
-**Weather radar reveals ongoing pest-control services from bats across agricultural landscapes**
+**Weather radar reveals ongoing pest-control services from bats across agricultural landscapes.**
 In revision, *PNAS*
 
 
 **Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
 **Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.**
-In review, *Remote Sensing of the Environment*
+In review, *Remote Sensing of the Environment*. (preprint: https://eartharxiv.org/repository/view/13334/)
 
 **2025**  
 **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
