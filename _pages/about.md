@@ -61,7 +61,6 @@ Appointments
 Publications
 ------
 **In review**  
-
 **Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
 **Weather radar reveals ongoing pest-control services from bats across agricultural landscapes.**
 In revision, *PNAS*
@@ -105,7 +104,7 @@ Presentations
 ------
 **2026** ESA Conference (Invited Symposium: Complexity, Uncertainty, and Causal Understanding in Ecology): Continuous radar monitoring shows bats reduce insecticide use in California agriculture  
 **2024** AGU Fall Meeting: BATS Toolkit & Forest Carbon Remote Sensing  
-**2023** ESA Conference: BATS Toolkit. 
+**2023** ESA Conference: BATS Toolkit  
 **2022** Yolo Basin Foundation: Bat Populations & Machine Learning  
 **2021** Pacific Union College: Remote Sensing & Ecosystem Services  
 
