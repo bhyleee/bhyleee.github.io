@@ -101,8 +101,7 @@ Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S
 
 Presentations
 ------
-**2026** ESA Conference (Invited Symposium: Complexity, Uncertainty, and Causal Understanding in Ecology):
-         Continuous radar monitoring shows bats reduce insecticide use in California agriculture
+**2026** ESA Conference (Invited Symposium: Complexity, Uncertainty, and Causal Understanding in Ecology): Continuous radar monitoring shows bats reduce insecticide use in California agriculture
 **2024** AGU Fall Meeting: BATS Toolkit & Forest Carbon Remote Sensing 
 **2023** ESA Conference: BATS Toolkit
 **2022** Yolo Basin Foundation: Bat Populations & Machine Learning
