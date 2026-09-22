@@ -19,17 +19,19 @@ When I'm not thinking about forests and farms, you can find me enjoying the outd
 
 My Research
 ======
-My work focuses on building and validating models that map, monitor, and attribute ecological change—with an emphasis on outcomes that matter for management and policy (e.g., carbon stocks and fluxes, productivity, habitat dynamics, and pest-control services).
+My research examines how climate variability, land management, and ecological disturbances reshape working landscapes and the ecosystem services they provide. I focus on forests and agricultural systems, where processes such as growth, drought, harvest, and recovery interact across space and time.
 
-Geospatial ML at scale: Train and evaluate models that integrate heterogeneous spatial data to produce reliable landscape-level predictions and uncertainty.
+I combine multi-sensor remote sensing, machine learning, and causal inference to address three connected challenges:
 
-Multi-sensor remote sensing fusion: Combine optical, SAR, and LiDAR to improve estimates of ecosystem structure and function (e.g., biomass, primary productivity).
+- **Measuring environmental change:** Integrating optical, radar, LiDAR, and field observations to estimate changes in forest carbon, agricultural productivity, biodiversity, and other ecosystem properties.
 
-Biodiversity + ecosystem services: Use ground-based sensing (including NEXRAD weather radar) to quantify animal activity (e.g., bats/avian movement) and connect it to human-relevant outcomes.
+- **Understanding dynamic landscapes:** Developing models that represent transitions among growth, stress, disturbance, management, and recovery—and quantify uncertainty in both ecosystem states and their trajectories.
 
-These tools help stakeholders move from “what happened?” to “where, how much, why, and what next?”—supporting more effective monitoring, climate mitigation planning, and resource management.
+- **Connecting ecological change to people:** Linking remotely sensed changes in ecosystems and animal activity to outcomes relevant to management and policy, including carbon storage, crop production, pesticide use, and pest-control services.
 
-I firmly believe in inclusive, open science and I am actively involved in developing tools like BATS (Bat-Aggregated Time Series), promoting environmental environmental education and fostering the next generation of environmental stewards.
+My goal is to move beyond mapping where change occurred toward explaining why it occurred, anticipating what comes next, and identifying opportunities for more resilient management.
+
+I am also committed to open and inclusive environmental science. I develop accessible datasets and tools—including BATS (Bat-Aggregated Time Series)—and support students in applying quantitative methods to consequential environmental problems.
 
 Experience
 ======
