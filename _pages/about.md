@@ -10,7 +10,7 @@ google_site_verification: "wrrRXKxV5C1YMC8y8tcza0SkRHxqJNsNzjYscsU5VLw"
 
 I am a landscape ecologist who measures ecosystem services and environmental change across space and time. I have a particular interest in working lands, where society and nature overlap. I combine machine learning, multi-sensor remote sensing, and causal inference to build geospatial AI systems that turn large environmental datasets into decision-ready insights for sustainability.
 
-I am currently a PhD candidate at UC Santa Barbara's Bren School of Environmental Science & Management, advised by Ashley Larsen, Robert Heilmayr, Kathy Baylis, and Lola Fatoyinbo. In April 2026, I will begin a postdoctoral appointment at the Environmental Data Science Innovation & Impacts Lab (ESIIL) at the University of Colorado, Boulder.
+I am currently a postdoctoral associate at the Environmental Data Science Innovation & Impacts Lab (ESIIL) at the University of Colorado, Boulder.
 
 My research has been supported by fellowships and grants from NASA, USDA, and the Schmidt Foundation.
 
@@ -44,7 +44,7 @@ Education
 
 Appointments
 ------
-**2026** Postdoctoral Associate, ESIIL, CU Boulder (starting April, 2026)  
+**2026** Postdoctoral Associate, ESIIL, CU Boulder
 **2025** Instructor of record, UCSB  
 **2024-2025** Bren Environmental Leadership Fellow, UCSB  
 **2023-2024** Arnhold Fellow, UCSB  
@@ -60,16 +60,14 @@ Publications
 ------
 **In review**  
 
-
-**In preparation**  
-
 **Lee, B.**, Heilmayr, R., Baylis, K., Noack, F., & Larsen, A.E.
-**Radar-based monitoring reveals bat-driven insecticide reductions.**
+**Weather radar reveals ongoing pest-control services from bats across agricultural landscapes**
+In revision, *PNAS*
 
 
 **Lee, B.**, Rich, A., Fatoyinbo, L., Thomas, N., Stovall, A., Olmedo, G.F., Ramirez, P.I., & Heilmayr, R.
 **Tree-mendous changes: Quantifying changes in forest carbon using remote sensing and machine learning.**
-In preparation (targeting *Remote Sensing of the Environment*).
+In review, *Remote Sensing of the Environment*
 
 **2025**  
 **Lee, B.** (co-first author), **Sambado, S.** (co-first author), Farrant, D.N., Boser, A., Ring, K., Hyon, D., Larsen, A.E.  
