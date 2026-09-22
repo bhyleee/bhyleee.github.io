@@ -8,7 +8,7 @@ redirect_from:
 google_site_verification: "wrrRXKxV5C1YMC8y8tcza0SkRHxqJNsNzjYscsU5VLw"
 ---
 
-I am a landscape ecologist who measures ecosystem services and environmental change across space and time. I have a particular interest in working lands, where society and nature overlap. I combine machine learning, multi-sensor remote sensing, and causal inference to build geospatial AI systems that turn large environmental datasets into decision-ready insights for sustainability.
+I am a landscape ecologist studying how climate and human management reshape ecosystems and the services they provide. I focus particularly on working lands, where ecological processes and human decisions are tightly intertwined. I combine multisensor remote sensing, machine learning, and causal inference to measure environmental change, uncover its drivers, and inform more resilient management of forests and agricultural systems.
 
 I am currently a postdoctoral associate at the Environmental Data Science Innovation & Impacts Lab (ESIIL) at the University of Colorado, Boulder.
 
@@ -101,10 +101,12 @@ Fisher, J.B., **Lee, B.**, Purdy, A.J., Halverson, G.H., Dohlen, M.B., & Hook, S
 
 Presentations
 ------
-**2024** AGU Fall Meeting (BATS Toolkit & Forest Carbon Remote Sensing)  
-**2023** ESA Conference (BATS Toolkit)  
-**2022** Yolo Basin Foundation (Bat Populations & Machine Learning)  
-**2021** Pacific Union College (Remote Sensing & Ecosystem Services)  
+**2026** ESA Conference (Invited Symposium: Complexity, Uncertainty, and Causal Understanding in Ecology):
+         Continuous radar monitoring shows bats reduce insecticide use in California agriculture
+**2024** AGU Fall Meeting: BATS Toolkit & Forest Carbon Remote Sensing 
+**2023** ESA Conference: BATS Toolkit
+**2022** Yolo Basin Foundation: Bat Populations & Machine Learning
+**2021** Pacific Union College: Remote Sensing & Ecosystem Services 
 
 Grants & Awards
 ------
